@@ -1,11 +1,11 @@
-About r-cetcolor
-================
+About r-cetcolor-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cetcolor-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/coatless/cetcolor, http://thecoatlessprofessor.com/projects/cetcolor/, http://peterkovesi.com/projects/colourmaps/
 
 Package license: CC-BY-SA-4.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cetcolor-feedstock/blob/main/LICENSE.txt)
 
 Summary: Collection of perceptually uniform colour maps made by Peter Kovesi (2015) "Good Colour Maps: How to Design Them" <arXiv:1509.03700> at the Centre for Exploration Targeting (CET).
 
